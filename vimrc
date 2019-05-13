@@ -185,6 +185,13 @@ nnoremap gj j
 nnoremap gh ^
 nnoremap gl $
 
+vnoremap k gk
+vnoremap gk k
+vnoremap j gj
+vnoremap gj j
+vnoremap gh ^
+vnoremap gl $
+
 map <C-j> <C-W>j
 map <C-k> <C-W>k
 map <C-h> <C-W>h
